@@ -7,7 +7,5 @@ A tiny python code to create a dotted grayscale (or so to speak a Halftone) imag
 **Example:**  
 `$ python Halftone_Image.py Joker.jpg 200`
 
-<img src="Joker.jpg" height="50%">
-
----
-<img src="Joker_200_5.jpg" height="50%">
+<img src="Joker.jpg" height="80%">
+<img src="Joker_200_5.jpg" height="80%">
